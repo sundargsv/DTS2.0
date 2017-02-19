@@ -1,0 +1,22 @@
+{
+  "name": "DTS2.0",
+  "version": "0.0.0",
+  "description": "Auhtors : Sundargsv, prashanth, Balaji, nishanth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sundargsv/DTS2.0-POC-.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sundargsv/DTS2.0-POC-/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "browser-sync": "~2.18.8"
+  }
+}
